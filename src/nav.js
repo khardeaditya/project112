@@ -3,8 +3,8 @@ import "./nav.css"
 function nav() {
   return (
     <div className='NavContainer'>
-        <a href='#'>Home</a>
-        <a href='/'>About</a>
+        <a href='/'>Home</a>
+        <a href='/about'>About</a>
         <a href='/contact'>Contact</a>
         <a href='#'>Search</a>
 

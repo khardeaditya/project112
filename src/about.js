@@ -13,8 +13,9 @@ const card = {
 function about() {
   return (
   <>
+   <Nav/>
     <div style={card}>
-      <Nav/>
+     
       <h1>About page</h1>
       <h2 >This is a About Page</h2>
     </div>
